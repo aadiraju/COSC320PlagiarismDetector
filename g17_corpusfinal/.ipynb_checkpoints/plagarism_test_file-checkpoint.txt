@@ -1,0 +1,2 @@
+The word "programming" in "dynamic programming" has no particular connection to computer programming at all, and instead comes from the term "mathematical programming", a synonym for optimization. Thus, the "program" is the optimal plan for action that is produced. For instance, a finalized schedule of events at an exhibition is sometimes called a program. Programming, in this sense, means finding an acceptable plan of action, an algorithm.
+Optimal substructure means that optimal solutions of subproblems can be used to find the optimal solutions of the overall problem.
